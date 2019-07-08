@@ -4,5 +4,5 @@ if [ $# -eq 0 ]
   then
     echo "No arguments supplied"
 else
-  echo "$1"
+  echo "Parameter: $1"
 fi
